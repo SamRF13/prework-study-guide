@@ -20,8 +20,6 @@ N/A
 
 each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. 
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
